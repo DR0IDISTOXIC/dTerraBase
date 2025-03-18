@@ -7,16 +7,16 @@ All terrains were created with a 2048x2048 size and default cell settings (for s
 All height maps are 2048x2048, and approximately 1/m per pixel; 
 Most masks should be 4033x4033.
 
-## Satmaps
+### Satmaps
 If you're looking to generate a satmap, using the materials from Enfusion or custom terrain material; I reccomend using [TilW's Seemless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
 
-# Masks
+### Masks
 As all the height maps provided are intended to be used within Enfusion/Arma: Reforger, the providede masks are directly exported from Enfusion after being imported from source, the source of these are not provided.. If you wish to modify the masks, you can do so within Enfusion itself.
 
-## Help, the height is wrong!
+### Help, the height is wrong!
 Use the "resample" option when importing the heightmap, none of the heightmaps should require remapping beyond -15 or 200; your judgement for what is "too high" or "too low" is yours to make.
 
-## Help, the satmap is too bright!
+### Help, the satmap is too bright!
 Disable "linear color space" when importing the Satellite Map.
 
 ## "Sandgamau Isle"
