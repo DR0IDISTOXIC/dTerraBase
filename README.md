@@ -7,6 +7,9 @@ All terrains were created with a 2048x2048 size and default cell settings (for s
 All height maps are 2048x2048, and approximately 1/m per pixel; 
 Most masks should be 4033x4033.
 
+## Satmaps
+If you're looking to generate a satmap, using the materials from Enfusion or custom terrain material; I reccomend using [TilW's Seemless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
+
 ## "Sandgamau Isle"
 ![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9e60a85d956d67a5e2a0dc8232011e5d2b04d790/assets/SandgamauIsle_LongEnfusion.png)
 ![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9e60a85d956d67a5e2a0dc8232011e5d2b04d790/assets/SandgamauIsle_CloseEnfusion.png)
