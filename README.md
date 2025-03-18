@@ -1,4 +1,3 @@
-
 # dTerra Base
 
 A collection of base terrains, created for use in Enfusion/Arma: Reforger, masks are freely available to use and modify, the source to generate these masks will not be provided; if you wish to generate different masks, tools such as World Machine, GeoGen and the entirely free option blender exist. I am unable to provide any support for the height maps, I'm mostly fedup of playing on Landlocked maps and constantly seeing the ocean below the map when flying.
@@ -8,16 +7,26 @@ All height maps are 2048x2048, and approximately 1/m per pixel;
 Most masks should be 4033x4033.
 
 ### Satmaps
-If you're looking to generate a satmap, using the materials from Enfusion or custom terrain material; I reccomend using [TilW's Seemless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
+If you're looking to generate a satmap, using the materials from Enfusion or custom terrain materials; I recommend using [TilW's Seamless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
 
 ### Masks
-As all the height maps provided are intended to be used within Enfusion/Arma: Reforger, the providede masks are directly exported from Enfusion after being imported from source, the source of these are not provided.. If you wish to modify the masks, you can do so within Enfusion itself.
+As all the height maps provided are intended to be used within Enfusion/Arma: Reforger, the providede masks are directly exported from Enfusion after being imported from source, the source of these are not provided.. If you wish to modify the masks. You can do so within Enfusion itself, or an applicable application you're familiar with.
+
+### Support
+
+I won't provide support for any of the heightmaps available, the usage of them is solely your responsibility; If you encounter an issue related to Enfusion or any applicable software you decide to use, please use the Arma/BI discord; or the applicable support option for the software you're using.
+
+Feel free to create issues related to missing, incomplete terrains.. If a folder does not have any supporting masks or is missing the satmap, it is most likely they are complete to a standard I'm happy with (less likely, I forgot).
+
+# Common Issue(s)
 
 ### Help, the height is wrong!
 Use the "resample" option when importing the heightmap, none of the heightmaps should require remapping beyond -15 or 200; your judgement for what is "too high" or "too low" is yours to make.
 
 ### Help, the satmap is too bright!
 Disable "linear color space" when importing the Satellite Map.
+
+# Enfusion Previews
 
 ## "Sandgamau Isle"
 ![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9e60a85d956d67a5e2a0dc8232011e5d2b04d790/assets/SandgamauIsle_LongEnfusion.png)
