@@ -6,8 +6,10 @@ All terrains were created with a 2048x2048 size and default cell settings (for s
 All height maps are 2048x2048, and approximately 1/m per pixel; 
 Most masks should be 4033x4033.
 
-### Workshop?
-A dependency version is available [Here](https://reforger.armaplatform.com/workshop/64E0738C140B94D9-dTerraBase) for Enfusion, however this is intended for my own use and will contain anything that I end up requiring or making for any other projects.
+> [!NOTE]
+> A workshop version is available to use as a dependency, you will however be unable to alter the terrain or make any changes.
+> this is intended for my own use, as I do plan use these bases myself officially.
+> [Here](https://reforger.armaplatform.com/workshop/64E0738C140B94D9-dTerraBase)
 
 ### Satmaps
 If you're looking to generate a satmap, using the materials from Enfusion or custom terrain materials; I recommend using [TilW's Seamless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
