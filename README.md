@@ -51,3 +51,11 @@ Disable "linear color space" when importing the Satellite Map.
 # "Sanau Hook"
 ![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/3f2148a81f9d582fe8effb6f3d919e7b43898492/assets/SanauHook_LongEnfusion.png)
 ![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/3f2148a81f9d582fe8effb6f3d919e7b43898492/assets/SanauHook_CloseEnfusion.png)
+
+# "Heavens Peak"
+![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9accc7a29f116f166eec8325a4b2bb8d7aa60d24/assets/HeavensPeak_LongEnfusion.png)
+![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9accc7a29f116f166eec8325a4b2bb8d7aa60d24/assets/HeavensPeak_CloseEnfusion.png)
+
+# "Three Valleys"
+![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9accc7a29f116f166eec8325a4b2bb8d7aa60d24/assets/ThreeValleys_LongEnfusion.png)
+![Screenshot](https://github.com/DR0IDISTOXIC/dTerraBase/blob/9accc7a29f116f166eec8325a4b2bb8d7aa60d24/assets/ThreeValleys_CloseEnfusion.png)
