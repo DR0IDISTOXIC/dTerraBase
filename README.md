@@ -11,6 +11,9 @@ Most masks should be 4033x4033.
 > this is intended for my own use, as I do plan use these bases myself officially.
 > [Here](https://reforger.armaplatform.com/workshop/64E0738C140B94D9-dTerraBase)
 
+> [!IMPORTANT]  
+> If you intend to use any of the v2 heightmaps, ensure you interpolate the range; I'm not entirely sure why the heightmaps import perfectly fine in all my other software and own mask creation tool at a 0-1 range, but for Enfusion it turns them into a hellish landscape.
+
 ### Satmaps
 If you're looking to generate a satmap, using the materials from Enfusion or custom terrain materials; I recommend using [TilW's Seamless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
 
