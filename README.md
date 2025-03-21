@@ -16,7 +16,7 @@ Most masks should be 4033x4033.
 >
 > Alternatively, using `0.00225` as your height scale will provide the /best/ result based on the heightmap(s) provided; It is however recommended you leave this at default.
 >
-> The masks have been generated based on resampling the imported height map; as such the grass and shore masks will most likely be below `Y: 0` and will need to be manually adjusted, or painted. You can do this by exporting Enfusion's shore preview as a template.
+> If you decide to scale the height range down as above; The grass and shore masks will most likely not be correct. As the masks provided have not been adjusted based on the shore mask provided by Enfusion.
 
 ### Satmaps
 If you're looking to generate a satmap, using the materials from Enfusion or custom terrain materials; I recommend using [TilW's Seamless Satmap Tool](https://github.com/Til-Weimann/tilw-terrain-tools)
